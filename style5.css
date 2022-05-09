@@ -1,0 +1,18 @@
+h1 {
+  border-color: blue;
+  border-style: double;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.col-md-4 {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 110px;
+}
